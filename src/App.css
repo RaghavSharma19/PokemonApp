@@ -1,0 +1,88 @@
+.App {
+  justify-content: center;
+}
+.App-header {
+  text-align: center;
+  color: black;
+  margin-bottom: 0px;
+  color: azure;
+}
+.Try-field {
+  color: black;
+  text-align: center;
+  color: azure;
+}
+.input-pokemon {
+  justify-content: center;
+  justify-items: center;
+  background-color:teal;
+  color: azure;
+  border-radius: 10px;
+}
+.submit-btn {
+  width: 60px;
+  height: 23px;
+  background-color:brown;
+  border-radius: 10px;
+  position: relative;
+  color: whitesmoke;
+  margin-left: 20px;
+}
+.Enter-pokemon-field {
+  text-align: center;
+  margin-top: 10px;
+}
+.previous-field {
+  margin-left: 30px;
+  margin-top: 3px;
+}
+.previous-btn {
+  width: 70px;
+  height: 23px;
+  background-color: brown;
+  border-radius: 10px;
+  color: whitesmoke;
+  margin-left: 10px;
+}
+.Poke-card-container {
+  background-color:darkcyan;
+  width: 300px;
+  height: 400px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.pokemon-img {
+  height: 200px;
+  width: 200px;
+}
+.pokemon-plz-search {
+  text-align: center;
+}
+
+.attack-list {
+  font-size: large;
+  margin-bottom: 20px;
+}
+.attack-list h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0%;
+  color: azure;
+}
+body {
+  background-color: seagreen;
+  color: azure;
+}
+
+header {
+  margin-top: 5px;
+  color: azure;
+}
