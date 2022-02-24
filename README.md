@@ -2,8 +2,8 @@
 
 pokemon app-internship assignment
 
-![TestImage1](./SS/Screenshot (87).png)
+![TestImage1](./SS/1.png)
 
-![FIRSTSEARCH](./SS/Screenshot (88).png)
+![FIRSTSEARCH](./SS/2.png)
 
-![Secondsearch](./SS/Screenshot (89).png")
+![Secondsearch](./SS/3.png)
