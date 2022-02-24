@@ -6,4 +6,5 @@ pokemon app-internship assignment
 
 ![FIRSTSEARCH](./SS/2.png)
 
+AFTER SECOND SEARCH PREVIOUS BUTTON APPEARS
 ![Secondsearch](./SS/3.png)
